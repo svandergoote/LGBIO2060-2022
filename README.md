@@ -9,3 +9,5 @@ Table of contents
 2. This second session introduces the notion of prior (ie. we have some knowledge about the system we're observing) and how to mix them with likelihood in order to get an optimal posterior estimation. In this session, we will introduce Bayes' theorem and optimal combination of prior and likelihood on a toy example.
 
 3. This third session will be about continuous time varying random variable which is not fully observable (for example, assessing the position of your limb while performing a movement). We will use an optimal combination of prior and likelihood (aka, Kalman filter) as before except that in this case, the RV can take an infinity of possible values.
+
+4. Test-test 
