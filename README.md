@@ -8,7 +8,7 @@ Week 2-6 : Bayesian inference.
 
 Week 7-10 : Hidden dynamics.
 
-Week 11 : Modelling practices (NCBME).
+Week 11 : Modelling practices.
 
 Week 12-13 : Optimal control.
 
