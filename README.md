@@ -6,13 +6,13 @@ Table of contents
 
 Week 2-6 : Bayesian inference. 
 
-Week 7-10 : Hidden dynamics.
+Week 7-10 : Hidden dynamics (Be careful there is a session on week 7 instead of the course on Thursday).
 
-Week 11 : Modelling practices.
+Week 11-12 : Optimal control.
 
-Week 12-13 : Optimal control.
+Week 13 : Q&A.
 
-Week 14: Q&A.
+Week 14: Lesson with Pr. Lefèvre.
 
 |   | Run |   | Run |    
 | - | --- | - | --- |
