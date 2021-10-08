@@ -18,7 +18,7 @@ Week 14: Lesson with Pr. Lefèvre.
 | - | --- | -------- | - | --- | -------- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP1.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP1_sol.ipynb) | Tutorial 5 |  |          |
 | Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP2_sol.ipynb) | Tutorial 6 |  ||          | 
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP3.ipynb) | | Tutorial 7 |  ||          |  
+| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP3.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_TP3_sol.ipynb) | Tutorial 7 |  ||          |  
 | Tutorial 4 | | | Tutorial 8 |  ||          |  
 
 # Projects
