@@ -23,7 +23,9 @@ Week 14: Lesson with Pr. Lefèvre.
 
 # Projects 
 The deadline for the submission of the project 1 is the **28 October 23:59** on Moodle. Do not forget to register in a group of 2 and to choose a time slot for the oral evaluation.
+
+The deadline for the submission of the project 2 is the **25 November 23:59** on Moodle. Do not forget to register in a group of 2 and to choose a time slot for the oral evaluation.
 |   | Run |
 | - | --- |
 | Project 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_Projet_1.ipynb)|
-
+| Project 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2021/blob/main/LGBIO2060_Projet2.ipynb)|
