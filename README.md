@@ -12,7 +12,7 @@ Week 11-12 : Optimal control.
 
 Week 13 : Q&A.
 
-Week 14: Lesson with Pr. Lefèvre.
+Week 14: Lesson with Pr. Lefèvre. ( /!\ This last course is cancelled, since all course material has been seen. /!\ )
 
 |   | Run | solution |   | Run | solution |    
 | - | --- | -------- | - | --- | -------- |
