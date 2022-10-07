@@ -18,7 +18,7 @@ Week 13-14: No session.
 | - | --- | -------- | 
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP1.ipynb) |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP1_sol.ipynb)|
 | Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP2.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP2_sol.ipynb)|  
-| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP3.ipynb) |   
+| Tutorial 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP3.ipynb) |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP3_sol.ipynb)
 | Tutorial 4 |  | |         |  
 | Tutorial 5 |   | |          | 
 | Tutorial 6 |   | |          | 
@@ -28,7 +28,6 @@ Week 13-14: No session.
 The deadline for the submission of the project 1 is the **20 October 23:59** on Moodle. Do not forget to register in a group of 2 and to choose a time slot for the oral evaluation.
 
 The deadline for the submission of the project 2 is the **24 November 23:59** on Moodle (deadline has been extended). Do not forget to register in a group of 2 and to choose a time slot for the oral evaluation.
-|   | Run |
-| - | --- |
-| Project 1 | |
-| Project 2 | |
+
+
+The instructions for the first project are on Moodle.
