@@ -31,3 +31,7 @@ The deadline for the submission of the project 2 is the **24 November 23:59** on
 
 
 The instructions for the first project are on Moodle.
+
+|   | Run | 
+| - | --- |
+| Projet 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_Projet2.ipynb)   |
