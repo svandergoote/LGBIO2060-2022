@@ -14,5 +14,10 @@ Week 12 : Q&A.
 
 Week 13-14: No session.
 
-
-
+|   | Run | solution | 
+| - | --- | -------- | 
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP1.ipynb) |  |
+| Tutorial 2 |
+| Tutorial 3 |
+| Tutorial 4 |
+| Tutorial 5 |
