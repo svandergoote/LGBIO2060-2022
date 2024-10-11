@@ -21,3 +21,6 @@ Week 13-14: No session.
 | Tutorial 3 |
 | Tutorial 4 |
 | Tutorial 5 |
+
+# Projects 
+The deadline for the submission of the project 1 is the **24 October 23:59** on Moodle. Do not forget to register in a group of 2 and to choose a time slot for the oral evaluation.
