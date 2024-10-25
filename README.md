@@ -17,7 +17,7 @@ Week 13-14: No session.
 |   | Run | solution | 
 | - | --- | -------- | 
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP1_sol.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP2.ipynb)| |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP2.ipynb)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP2_sol.ipynb) |
 | Tutorial 3 |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/svandergoote/LGBIO2060-2022/blob/main/LGBIO2060_TP3.ipynb)| |
 | Tutorial 4 |
 | Tutorial 5 |
